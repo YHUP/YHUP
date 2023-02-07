@@ -1,16 +1,23 @@
-### Hi there 👋
+# Yuhuan Pang
 
-<!--
-**YHUP/YHUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Back-end developer with a knack for optimizing database performance and streamlining workflows.
 
-Here are some ideas to get you started:
+> It's a job that's never started that takes the longest to finish.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- iOS Development
+- Machine Learning
+
+
+## Status
+
+<a href="#stats" align="center">
+    <img align="center" alt="YHUP's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YHUP&count_private=true&show_icons=true&include_all_commits=true&theme=solarized-light" />
+</a>
+<br />
+
+<a href="#languages" align="center">
+    <img align="center" alt="YHUP's Top Language" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=YHUP&langs_count=10&layout=compact&theme=solarized-light" />
+</a>
+<br />
